@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+
+apm install atom-typescript
+apm install git-plus
+apm install language-aspx
+apm install linter
+apm install minimap
+apm install ruby-block
+apm install atom-elixir
+apm install busy-signal
+apm install goto-definition
+apm install language-babel
+apm install linter-elixirc
+apm install minimap-find-and-replace
+apm install tsx-tags-autocomplete
+apm install atom-elixir-formatter
+apm install emmet
+apm install highlight-selected
+apm install language-elixir
+apm install linter-eslint
+apm install minimap-highlight-selected
+apm install atom-ide-ui
+apm install file-icons
+apm install intentions
+apm install language-liquid
+apm install linter-rubocop
+apm install prettier-atom
+apm install atom-material-syntax
+apm install firacode
+apm install language-abap
+apm install language-ocaml
+apm install linter-ui-default
+apm install rubocop-auto-correct
