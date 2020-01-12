@@ -20,3 +20,9 @@ brew install redis
 brew install watchman
 brew install wget
 brew install yarn
+
+brew tap homebrew/cask-fonts
+brew cask install font-fira-code
+
+
+brew tap mongodb/brew
